@@ -6,7 +6,7 @@ redirect_from:
   - /research.html
 ---
 ## Peer Reviewed Papers
-Kalatzi Pantera, D., Böhmelt, T., Bakaki, Z. (2022) "The Transnational Influence of Natural Disasters on Environmental Attitudes." Forthcoming at the _European Journal of Political Research_. [https://doi.org/10.1111/1475-6765.12572](https://doi.org/10.1111/1475-6765.12572)
+Kalatzi Pantera, D., Böhmelt, T., Bakaki, Z. (2022) "The Transnational Influence of Natural Disasters on Environmental Attitudes." _European Journal of Political Research_. [https://doi.org/10.1111/1475-6765.12572](https://doi.org/10.1111/1475-6765.12572)
 
 ## Working Papers
 
