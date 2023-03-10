@@ -16,7 +16,7 @@ Kalatzi Pantera, D. "Does Global Integration Mitigate Environmental Mobilization
 
 ## Work in Progress
 
-Genovese, F. and Kalatzi Pantera, D. "All Shades of Green: Chromatic Variation and Political Alignment in European Green Parties."
+Genovese, F. and Kalatzi Pantera, D., Zur, R. "All Shades of Green: Chromatic Variation and Political Alignment in European Green Parties."
 
 Kalatzi Pantera, D. "Going Glocal: The Effect of COP meetings on Local Environmental Attitudes".
 
