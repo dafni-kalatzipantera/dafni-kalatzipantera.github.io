@@ -9,6 +9,12 @@ author_profile: true
 
 _Graduate Teaching Assistant_
 
+- Causal Inference and Experiments in the Social Sciences
+
+## Essex Summer School in Social Science Data Analysis (2022)
+
+_Graduate Teaching Assistant_
+
 - Quantitative Data Analysis and Statistical Graphics with R
 
 ## University of Essex, Department of Government (2021-2022)
