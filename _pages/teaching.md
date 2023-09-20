@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Essex Summer School in Social Science Data Analysis (2022)
+## Essex Summer School in Social Science Data Analysis (2023)
 
 _Graduate Teaching Assistant_
 
