@@ -10,18 +10,18 @@ Kalatzi Pantera, D., Böhmelt, T., Bakaki, Z. (2022) "The Transnational Influenc
 
 ## Working Papers
 
-Kalatzi Pantera, D. "Green Diffusion: How Party Competition Influences Parties’ Attention to Environmental Issues".
-
 Kalatzi Pantera, D. "Does Global Integration Mitigate Environmental Mobilization? The Effect of Global Norms on Environmental Movement Participation".
-
-## Work in Progress
-
-Genovese, F. and Kalatzi Pantera, D., Zur, R. "All Shades of Green: Chromatic Variation and Political Alignment in European Green Parties."
 
 Kalatzi Pantera, D. "Going Glocal: The Effect of COP meetings on Local Environmental Attitudes".
 
-Kalatzi Pantera D. and Shiyi, X. "Conscience or Personal Interest? Motivation Disputes for Political Participation in Environmental Movements".
-
 Crippa, L. and Kalatzi Pantera, D. "Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals".
 
+## Work in Progress
+
+Genovese, F. and Kalatzi Pantera, D., Zur, R. "All Shades of Green: Chromatic Variation and Political Alignment in European Green Parties".
+
+Kalatzi Pantera D. and Shiyi, X. "Conscience or Personal Interest? Motivation Disputes for Political Participation in Environmental Movements".
+
 Kalatzi Pantera, D., and Yun, J.Y. "Natural Disasters and Child Recruitment by Rebel Groups".
+
+Kalatzi Pantera, D. "The Climate is Changing: The Evolution of Parties’ Environmental Positions".
