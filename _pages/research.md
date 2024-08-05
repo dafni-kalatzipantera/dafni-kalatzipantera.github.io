@@ -6,7 +6,7 @@ redirect_from:
   - /research.html
 ---
 ## Peer Reviewed Papers
-“Does Global Integration Foster Environmental Mobilization? The Effect of Global Norms on Environmental Movement Participation”. (2024) Conditionally accepted at _Environmental Politics_.
+“Does Global Integration Foster Environmental Mobilization? The Effect of Global Norms on Environmental Movement Participation”. (2024) Forthcoming at _Environmental Politics_ [http://dx.doi.org/10.1080/09644016.2024.2386800](http://dx.doi.org/10.1080/09644016.2024.2386800).
 
 “The 2024 Europe report of the Lancet Countdown on health and climate change: unprecedented warming demands unprecedented action." (2024) _The Lance Public Health_ [https://doi.org/10.1016/S2468-2667(24)00055-0](https://doi.org/10.1016/S2468-2667(24)00055-0) (with van Daleen et al.)
 
