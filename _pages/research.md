@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Peer Reviewed Papers
 
-“Public Engagement with Health and Climate Change Around the World: A Google Trends Analysis”. (2024) Forthcoming at _The Lancet Public Health_ (with Dasandi, N., Jankin, S. and Romanello, M.).
+“Public Engagement with Health and Climate Change Around the World: A Google Trends Analysis”. (2024)  _The Lancet Public Health_ [https://doi.org/10.1016/S2542-5196(25)00029-4] (with Dasandi, N., Jankin, S. and Romanello, M.).
 
 “Does Global Integration Foster Environmental Mobilization? The Effect of Global Norms on Environmental Movement Participation”. (2024) _Environmental Politics_ [http://dx.doi.org/10.1080/09644016.2024.2386800](http://dx.doi.org/10.1080/09644016.2024.2386800).
 
@@ -23,17 +23,18 @@ Kalatzi Pantera, D., and Yun, J.Y. "Natural Disasters and Child Recruitment by R
 
 Crippa, L. and Kalatzi Pantera, D. "Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals".
 
+Bakaki, Z., Böhmelt, T., and Kalatzi Pantera D., "Explaining Environmental Provisions in Peace Agreements''.
+
 ## Work in Progress
+
+Kalatzi Pantera, D. "The Climate is Changing: The Evolution of Parties’ Environmental Positions".
 
 Genovese, F. and Kalatzi Pantera, D., Zur, R. "All Shades of Green: Chromatic Variation and Political Alignment in European Green Parties".
 
 Kalatzi Pantera D. and Shiyi, X. "Conscience or Personal Interest? Motivation Disputes for Political Participation in Environmental Movements".
 
-Kalatzi Pantera, D. "The Climate is Changing: The Evolution of Parties’ Environmental Positions".
-
 Chelotti, N., Dasandi, N.,  Jankin, S., Kalatzi Pantera, D. "The Co-Benefits of Mitigation and Policymakers’ Attitudes to Climate Action. A Survey Experiment on EU Diplomats".
 
 Dasandi, N., Jankin, S., Kalatzi Pantera, D. "Health Framing of Climate Change and Individuals' Environmental Attitudes".
-
 
 Crippa, L., Gehrke, M., Kalatzi Pantera D. "Emission Reductions as Political Favors".
