@@ -37,4 +37,8 @@ Chelotti, N., Dasandi, N.,  Jankin, S., Kalatzi Pantera, D. "The Co-Benefits of 
 
 Dasandi, N., Jankin, S., Kalatzi Pantera, D. "Health Framing of Climate Change and Individuals' Environmental Attitudes".
 
+Alexiadou, D., Kalatzi Pantera D, Sylvester, C. "The Political Costs of Fuel Tax''.
+
+Ceron, A., Grechanaya, T., Kalatzi Pantera, D. "Greening the Political Landscape: The agenda setting power of environmental activism''.
+
 Crippa, L., Gehrke, M., Kalatzi Pantera D. "Emission Reductions as Political Favors".
