@@ -9,7 +9,7 @@ redirect_from:
 
 “Public Engagement with Health and Climate Change Around the World: A Google Trends Analysis”. (2025)  _The Lancet Planetary Health_ [https://doi.org/10.1016/S2542-5196(25)00029-4] (with Dasandi, N., Jankin, S. and Romanello, M.).
 
-“Does Global Integration Foster Environmental Mobilization? The Effect of Global Norms on Environmental Movement Participation”. (2024) _Environmental Politics, 34(4)_ [http://dx.doi.org/10.1080/09644016.2024.2386800](http://dx.doi.org/10.1080/09644016.2024.2386800).
+“Does Global Integration Foster Environmental Mobilization? The Effect of Global Norms on Environmental Movement Participation”. (2025) _Environmental Politics, 34(4)_ [http://dx.doi.org/10.1080/09644016.2024.2386800](http://dx.doi.org/10.1080/09644016.2024.2386800).
 
 “The 2024 Europe report of the Lancet Countdown on health and climate change: unprecedented warming demands unprecedented action." (2024) _The Lancet Public Health_ [https://doi.org/10.1016/S2468-2667(24)00055-0](https://doi.org/10.1016/S2468-2667(24)00055-0) (with van Daleen et al.).
 
