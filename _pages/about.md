@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dafni Kalatzi Pantera"
+title: "Dafni Kalatzi-Pantera"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
