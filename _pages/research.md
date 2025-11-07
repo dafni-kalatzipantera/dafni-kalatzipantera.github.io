@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Peer Reviewed Papers
 
-“Public Engagement with Health and Climate Change Around the World: A Google Trends Analysis”. (2025)  _The Lancet Planetary Health_ [https://doi.org/10.1016/S2542-5196(25)00029-4] (with Dasandi, N., Jankin, S. and Romanello, M.).
+“Public Engagement with Health and Climate Change Around the World: A Google Trends Analysis”. (2025)  _The Lancet Planetary Health_ [https://doi.org/10.1016/S2542-5196(25)00029-4](with Dasandi, N., Jankin, S. and Romanello, M.).
 
 “Does Global Integration Foster Environmental Mobilization? The Effect of Global Norms on Environmental Movement Participation”. (2025) _Environmental Politics, 34(4)_ [http://dx.doi.org/10.1080/09644016.2024.2386800](http://dx.doi.org/10.1080/09644016.2024.2386800).
 
@@ -41,4 +41,4 @@ Alexiadou, D., Kalatzi Pantera D, Sylvester, C. "The Political Costs of Fuel Tax
 
 Ceron, A., Grechanaya, T., Kalatzi Pantera, D. "Greening the Political Landscape: The agenda setting power of environmental activism''.
 
-Crippa, L., Gehrke, M., Kalatzi Pantera D. "Emission Reductions as Political Favors".
+Kalatzi Pantera D., Gehrke, M., Crippa, L. "Emission Reductions as Political Favors".
