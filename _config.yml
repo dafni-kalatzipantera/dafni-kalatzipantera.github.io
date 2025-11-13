@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dafni Kalatzi Pantera"
+title                    : "Dafni Kalatzi-Pantera"
 title_separator          : "-"
-name                     : &name "Dafni Kalatzi Pantera"
-description              : &description "Dafni Kalatzi Pantera's academic website"
+name                     : &name "Dafni Kalatzi-Pantera"
+description              : &description "Dafni Kalatzi-Pantera's academic website"
 url                      : https://dafni-kalatzipantera.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dafni-kalatzipantera/dafni-kalatzipantera.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dafni Kalatzi Pantera"
+  name             : "Dafni Kalatzi-Pantera"
   avatar           : "KALATZIPANTERA_DAFNI_squared.jpeg"
   bio              : "Research Fellow at the University of Birmingham. I study environmental behaviors of various societal actors (individuals, political elites, corporations)."
   location         : "Birmingham (GB)"
