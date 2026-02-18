@@ -12,7 +12,7 @@ _Journal of Global Security Studies_ (with Yun, J.Y.).
 
 "The 2025 report of the Lancet Countdown on health and climate change." (2025) _The Lancet_ [https://doi.org/10.1016/S0140-6736(25)01919-1]. (with Romanello, M. et al) 
 
-“Public Engagement with Health and Climate Change Around the World: A Google Trends Analysis.” (2025)  _The Lancet Planetary Health_. [https://doi.org/10.1016/S2542-5196(25)00029-4](with Dasandi, N., Jankin, S. and Romanello, M.).
+“Public Engagement with Health and Climate Change Around the World: A Google Trends Analysis.” (2025)  _The Lancet Planetary Health_. [https://doi.org/10.1016/S2542-5196(25)00029-4](https://doi.org/10.1016/S2542-5196(25)00029-4) (with Dasandi, N., Jankin, S. and Romanello, M.).
 
 “Does Global Integration Foster Environmental Mobilization? The Effect of Global Norms on Environmental Movement Participation.” (2025) _Environmental Politics, 34(4)_. [http://dx.doi.org/10.1080/09644016.2024.2386800](http://dx.doi.org/10.1080/09644016.2024.2386800).
 
