@@ -22,27 +22,30 @@ _Journal of Global Security Studies, 10(4)_ (with Yun, J.Y.).
 
 ## Working Papers
 
-Kalatzi Pantera, D. "Going Glocal: The Effect of COP meetings on Local Environmental Attitudes".
+Kalatzi-Pantera, D. "Going Glocal: The Effect of COP meetings on Local Environmental Attitudes."
 
-Crippa, L. and Kalatzi Pantera, D. "Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals".
+Crippa, L. and Kalatzi-Pantera, D. "Greening Criminal Records: How Companies Use Environmental Programs to Mitigate Corporate Scandals."
 
-Bakaki, Z., Böhmelt, T., and Kalatzi Pantera D., "Explaining Environmental Provisions in Peace Agreements''.
+Bakaki, Z., Böhmelt, T., and Kalatzi-Pantera D., "Explaining Environmental Provisions in Peace Agreements.''
 
-Kalatzi Pantera D. and Shiyi, X. "Conscience or Personal Interest? Motivation Disputes for Political Participation in Environmental Movements".
+Kalatzi-Pantera D. and Shiyi, X. "Conscience or Personal Interest? Motivation Disputes for Political Participation in Environmental Movements."
 
-Alexiadou, D., Kalatzi Pantera D, Sylvester, C. "The Political Costs of Fuel Tax''.
+Alexiadou, D., Kalatzi-Pantera D, Sylvester, C. "The Political Costs of Fuel Tax.''
 
 
 ## Work in Progress
 
-Kalatzi Pantera, D. "The Climate is Changing: The Evolution of Parties’ Environmental Positions".
+Kalatzi-Pantera, D. "The Climate is Changing: The Evolution of Parties’ Environmental Positions.''
 
-Genovese, F. and Kalatzi Pantera, D., Zur, R. "All Shades of Green: Chromatic Variation and Political Alignment in European Green Parties".
+Crippa, L. and Kalatzi-Pantera, D. "Multidimensionality of Organizations’ Reputation and its Influence on
+Climate Action.'' Manuscript in preparation for Cambridge University Press: Cambridge Elements in Organizational Response to Climate Change.
 
-Chelotti, N., Dasandi, N.,  Jankin, S., Kalatzi Pantera, D. "The Co-Benefits of Mitigation and Policymakers’ Attitudes to Climate Action. A Survey Experiment on EU Diplomats".
+Kalatzi-Pantera, D. and Crippa L. "Silencing Dissent to Protect Carbon: The Effects of US Anti-Protest Laws on Climate Politics."
 
-Dasandi, N., Jankin, S., Kalatzi Pantera, D. "Health Framing of Climate Change and Individuals' Environmental Attitudes".
+Genovese, F., Kalatzi-Pantera, D., and Zur, R. "All Shades of Green: Chromatic Variation and Political Alignment in European Green Parties."
 
-Ceron, A., Grechanaya, T., Kalatzi Pantera, D. "Greening the Political Landscape: The agenda setting power of environmental activism''.
+Dasandi, N., Kalatzi-Pantera, D., and Mizra, R. "Healthy Dissent in a Hostile Climate: Message and Messenger Effects on Public Responses to Disruptive Climate Protests."
 
-Kalatzi Pantera D., Gehrke, M., Crippa, L. "Emission Reductions as Political Favors".
+Chelotti, N., Dasandi, N.,  Jankin, S., Kalatzi-Pantera, D. "The Co-Benefits of Mitigation and Policymakers’ Attitudes to Climate Action. A Survey Experiment on EU Diplomats."
+
+Kalatzi-Pantera D., Gehrke, M., Crippa, L. "Emission Reductions as Political Favors."
