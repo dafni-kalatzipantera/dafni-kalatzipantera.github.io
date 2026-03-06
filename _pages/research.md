@@ -8,7 +8,7 @@ redirect_from:
 ## Peer Reviewed Papers
 
 "When It Rains, It Pours: The Impact of Disasters on Child Soldiering by Rebel Groups."(2025)
-_Journal of Global Security Studies, 10(4)_ (with Yun, J.Y.).
+_Journal of Global Security Studies, 10(4)_ [https://doi.org/10.1093/jogss/ogaf033](https://doi.org/10.1093/jogss/ogaf033)(with Yun, J.Y.).
 
 "The 2025 report of the Lancet Countdown on health and climate change." (2025) _The Lancet_ [https://doi.org/10.1016/S0140-6736(25)01919-1](https://doi.org/10.1016/S0140-6736(25)01919-1). (with Romanello, M. et al) 
 
