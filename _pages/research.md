@@ -7,6 +7,8 @@ redirect_from:
 ---
 ## Peer Reviewed Papers
 
+"The Politics of Crises in Italy." (2026) _Italian Political Science Review, 56(1)_. [https://doi.org/10.1017/ipo.2026.10090](https://doi.org/10.1017/ipo.2026.10090). (with Alessio Scopelliti and Tamara Grechanya).
+
 "When It Rains, It Pours: The Impact of Disasters on Child Soldiering by Rebel Groups."(2025)
 _Journal of Global Security Studies, 10(4)_ [https://doi.org/10.1093/jogss/ogaf033](https://doi.org/10.1093/jogss/ogaf033)(with Yun, J.Y.).
 
