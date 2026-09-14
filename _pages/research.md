@@ -32,12 +32,9 @@ Bakaki, Z., Böhmelt, T., and Kalatzi-Pantera D., "Explaining Environmental Prov
 
 Kalatzi-Pantera D. and Shiyi, X. "Conscience or Personal Interest? Motivation Disputes for Political Participation in Environmental Movements."
 
-Alexiadou, D., Kalatzi-Pantera D, Sylvester, C. "The Political Costs of Fuel Tax.''
 
 
 ## Work in Progress
-
-Kalatzi-Pantera, D. "The Climate is Changing: The Evolution of Parties’ Environmental Positions.''
 
 Crippa, L. and Kalatzi-Pantera, D. "Multidimensionality of Organizations’ Reputation and its Influence on
 Climate Action.'' Manuscript in preparation for Cambridge University Press: Cambridge Elements in Organizational Response to Climate Change.
